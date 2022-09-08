@@ -58,10 +58,10 @@ function isTriangle(a, b, c) {
 
 ## Courses
 
-- ([learnjavascript.ru](https://learn.javascript.ru/)) (in progress)
+- [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 - [Sololearn](https://www.sololearn.com/profile/10303281)
 
-## Language:
+## Languages:
 
 - **Kazakh** - Native
 - **Russian** - Intermediate
