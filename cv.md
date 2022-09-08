@@ -13,7 +13,7 @@
 
 ## About me
 
-I like solving algorithmic problems. Prior to that, he studied various programming languages, machine learning, neural networks. I am interested in software development because it provides endless opportunities for professional growth and creative solutions.
+I like solving algorithmic problems. Prior to that, I studied various programming languages, machine learning, neural networks. I am interested in software development because it provides endless opportunities for professional growth and creative solutions.
 
 ---
 
