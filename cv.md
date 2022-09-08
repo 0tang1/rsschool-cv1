@@ -56,6 +56,11 @@ function isTriangle(a, b, c) {
 - **Eurasian National University**
   - Bachelor, Computer Engineering
 
+## Courses
+
+- ([learnjavascript.ru](https://learn.javascript.ru/)) (in progress)
+- [Sololearn](https://www.sololearn.com/profile/10303281)
+
 ## Language:
 
 - **Kazakh** - Native
